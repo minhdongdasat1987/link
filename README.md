@@ -11,6 +11,6 @@
 * sudo python thoitiet.py -i wlan0 -K
 
 
-mv thoitiet.py ~/thoitiet.py
-sudo python ~/thoitiet.py -i wlan0 -K
+* mv thoitiet.py ~/thoitiet.py
+* sudo python ~/thoitiet.py -i wlan0 -K
 
